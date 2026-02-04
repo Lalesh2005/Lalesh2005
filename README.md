@@ -52,7 +52,7 @@
 
 <p align="center">
 
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Lalesh2005&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lalesh2005&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
